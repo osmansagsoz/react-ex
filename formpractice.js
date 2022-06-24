@@ -15,7 +15,7 @@ export default function App() {
      *    If not, log "passwords to not match" to the console.
      * 4. Also when submitting the form, if the person checked
      *    the "newsletter" checkbox, log "Thanks for signing
-     *    up for our newsletter!" to the console.
+     *    up for our newsletter!" to the console. 
      */
     const [formData, setFormData] = React.useState({
         email: "",
